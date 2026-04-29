@@ -1,0 +1,11 @@
+1. Unemployment rates remained relatively stable during 2019.
+
+2. A sharp spike is observed between April and June 2020, coinciding with COVID-19 lockdowns in India.
+
+3. The unemployment rate peaked above 25%, indicating severe economic disruption.
+
+4. Post mid-2020, a gradual recovery trend is observed as restrictions eased.
+
+5. Certain states experienced higher average unemployment, indicating uneven regional impact.
+
+6. Seasonal patterns suggest fluctuations across months, but COVID impact dominates overall trends.
